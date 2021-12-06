@@ -12,7 +12,7 @@ Below is the overall relationship between each data table to visualize the struc
 ** Deliverable 1 **
 To determine the requirement criteria, filtered the employees born between 1952-1955. From there, the combined dataset was organized by job title. It gives the potential retirees in each title were totaled. 
 We found total of 90,398 employees that are reaching the retirement age. Below are the titles company can start to work on the recurring plan. 
-![DATA MAP](https://github.com/Sirius0531/Pewlett-Hackard-Analysis/blob/main/Retire.png)
+![DATA summary](https://github.com/Sirius0531/Pewlett-Hackard-Analysis/blob/main/Retire.PNG)
 
 ** Deliverable 2 **
 The data set was constructed from the original six datasets to identify employees born in the year 1965 who are still working in the company. 
